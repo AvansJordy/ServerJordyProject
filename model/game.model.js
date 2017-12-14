@@ -31,8 +31,7 @@ const GameSchema = new Schema({
         required: true
     },
     releaseYear: {
-        type: Number,
-        required: true
+        type: Number
     }
 
 });
